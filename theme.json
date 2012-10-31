@@ -1,0 +1,13 @@
+{
+	"name": "Team Builders Plus",
+	"description": "Nerd CMS theme created for teambuildersplus.com",
+
+	"assets": {
+		"css": ["default.css"],
+		"js": ["default.js"]
+	},
+
+	"analytics": {
+		"code": false
+	}
+}
